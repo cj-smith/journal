@@ -6,16 +6,18 @@
 .container {
     margin-left: 5%;
     overflow: auto;    
-    border: 2px solid black;
 }
 
 h1 {
     float: left;
+    width: 40%;
 }
 
 .contactSection {
     float: left;
-    margin-left: 70%;
+    margin: 40px 0 0 35%;
+    width: 20%;
+
 }
 
 .contactSection li {
@@ -38,7 +40,7 @@ nav {
     float: left;
 }
 
-ul {
+.articleList {
     list-style: none;
     line-height: 10px;
 }
